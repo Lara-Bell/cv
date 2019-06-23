@@ -11,7 +11,7 @@
 Python | Javascript | PHP | Swift | CSS | HTML
 
 ### フレームワーク
-React Native | React | Vue | Vuex | Laravel | Node.js | Express | jQuery |Scrapy | scikit-learn | Ruby on Rails | Bootstrap
+React Native | React | Vue | Vuex | Laravel | Node.js | Express | jQuery | Scrapy | scikit-learn | Ruby on Rails | Bootstrap
 
 ### RDB/NoSQL
 MySQL | SQL Server | SQLite3 | MongoDB
