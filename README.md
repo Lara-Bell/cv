@@ -3,8 +3,7 @@
 ## 基本情報
 
 ## 概要
-フロント・バックエンドエンジニア
-クラウド構築 Database設計してます。
+フロント | バックエンドエンジニア | クラウド構築 | DB設計してます。
 
 ## スキル
 ### 言語
@@ -29,26 +28,26 @@ GitHub | BitBucket | Gitlab
 Ubuntu | CentOS
 
 ### その他
-Docker | Vagrant | Jenkins | nginx | Webpack | Elasticsearch | Kibana | Slack | SVN
+Docker | Vagrant | Jenkins | nginx | Webpack | Elasticsearch | Kibana | Slack | SVN | Redmine
 
 ## 主な業務経歴
 
 ### 2019年 -
 【プロジェクト概要】法人電話営業に使われる品質向上のためのAIツール
-【担当業務】フロントエンド、バックエンド、DB設計、業務ツール開発
-言語 PHP | Javascript | Shell Script
-フレームワーク Laravel | Vue | Vuex | Socket.io
-DB SQL Server
-クラウド Azure
-サーバー CentOS
-ツール Docker | ElasticSearch | Kibana | nginx | Postman
+【担当業務】フロントエンド、バックエンド、DB設計、テスト設計、業務ツール開発
+Language PHP | Javascript | Shell Script | SQL
+Framework Laravel | Vue | Vuex | Socket.io
+Database SQL Server
+Cloud Azure
+Server CentOS
+Tools Docker | ElasticSearch | Kibana | nginx | Postman
 
 ### 2018年 - 2019年
 【プロジェクト概要】業務連絡ツールの業務システム開発
 【担当業務】フロントエンド、バックエンド、サーバー/インフラ設計、デプロイ環境構築
-言語 PHP | Javascript | Shell Script
-フレームワーク Laravel | Vue | FullCalendar | Bootstrap
-DB MySQL
-クラウド Conoha | AWS EC2 S3
-サーバー CentOS
-ツール Docker | Jenkins | ElasticSearch | Kibana | nginx | Postman
+Language PHP | Javascript | Shell Script
+Framework Laravel | Vue | FullCalendar | Bootstrap
+Database MySQL
+Cloud Conoha | AWS EC2 S3
+Server CentOS
+Tools Docker | Jenkins | ElasticSearch | Kibana | nginx | Postman
