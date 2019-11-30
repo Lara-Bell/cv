@@ -7,16 +7,16 @@
 
 ## スキル
 ### 言語
-Python | Javascript | PHP | Swift | CSS | HTML
+Python | Javascript | Typescript | PHP | Swift | Golang | Kotlin | Java | Shell Script | CSS | HTML
 
 ### フレームワーク
-React Native | React | Vue | Vuex | Laravel | Node.js | Express | jQuery | Scrapy | scikit-learn | Ruby on Rails | Bootstrap
+React Native | React | Nuxt.js | Vue | Vuex | Laravel | Node.js | Express | jQuery | Scrapy | scikit-learn | Ruby on Rails | Bootstrap
 
 ### RDB/NoSQL
-MySQL | SQL Server | SQLite3 | MongoDB
+MySQL | SQL Server | SQLite3 | MongoDB | Redis
 
 ### クラウド
-- AWS VPC | EC2 | Route53
+- AWS VPC | EC2 | RDS | S3 | ECS | Auto Scaling | Route53
 - GCP VPC | Firebase
 - Azure VPC
 - その他 Conoha VPS等
@@ -33,6 +33,39 @@ Docker | Vagrant | Jenkins | nginx | Webpack | Elasticsearch | Kibana | Slack | 
 ## 主な業務経歴
 
 ### 2019年 -
+【プロジェクト概要】AIプラットフォーム既存システムリプレイス案件
+
+【担当業務】PMO、アーキテクチャ設計、マイクロサービス設計
+
+Language: Golang Kotlin Java Python
+
+【プロジェクト概要】AIプラットフォーム新規開発案件
+
+【担当業務】フロントエンド、バックエンド
+
+Front: Nuxt.js / Vue.js / Vuex / Typescript / Pug
+
+Back: Express / Apollo / GraphQL / Typescript
+
+Design: Atomic Design / SASS
+
+Auth: auth0
+
+CI/CD: CircleCI
+
+Cloud: AWS EC2 / RDS / S3 / Auto Scaling / ElastiCache / CloudFormation / CloudWatch
+
+Server: Ubuntu / CentOS
+
+IMDB: redis
+
+NoSQL: Atlas / MongoDB
+
+Tools: ​Zeplin / backlog / Docker
+
+
+### - 2019年8月
+
 【プロジェクト概要】法人営業に使われる応対品質向上のためのAIツール
 
 【担当業務】フロントエンド、バックエンド、DB設計、テスト設計、業務ツール開発
