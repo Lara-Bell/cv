@@ -32,12 +32,15 @@ Docker | Vagrant | Jenkins | nginx | Webpack | Elasticsearch | Kibana | Slack | 
 
 ## 主な業務経歴
 
-### 2019年 -
+### - 2019年
 【プロジェクト概要】AIプラットフォーム既存システムリプレイス案件
 
 【担当業務】PMO、アーキテクチャ設計、マイクロサービス設計
 
 Language: Golang Kotlin Java Python
+Front: Nuxt.js / Vue.js / Vuex / Pug
+Back: Gin / GORM
+Cloud: AWS EC2 / RDS / S3 / Auto Scaling / ElastiCache / SES / CloudWatch
 
 【プロジェクト概要】AIプラットフォーム新規開発案件
 
