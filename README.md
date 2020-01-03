@@ -38,8 +38,11 @@ Docker | Vagrant | Jenkins | nginx | Webpack | Elasticsearch | Kibana | Slack | 
 【担当業務】PMO、アーキテクチャ設計、マイクロサービス設計
 
 Language: Golang Kotlin Java Python
+
 Front: Nuxt.js / Vue.js / Vuex / Pug
+
 Back: Gin / GORM
+
 Cloud: AWS EC2 / RDS / S3 / Auto Scaling / ElastiCache / SES / CloudWatch
 
 【プロジェクト概要】AIプラットフォーム新規開発案件
