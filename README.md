@@ -7,16 +7,16 @@
 
 ## スキル
 ### 言語
-Python | Javascript | Typescript | PHP | Swift | Golang | Kotlin | Java | Shell Script | CSS | HTML
+Golang | Python | Javascript | Typescript | PHP | Swift | Kotlin | Java | Shell Script | CSS | HTML
 
 ### フレームワーク
-React Native | React | Nuxt.js | Vue | Vuex | Laravel | Node.js | Express | jQuery | Scrapy | scikit-learn | Ruby on Rails | Bootstrap
+Next.js | React | Redux | Nuxt.js | Vue | Vuex | Laravel | Node.js | Express | React Native | jQuery | Scrapy | scikit-learn | Ruby on Rails | Bootstrap
 
 ### RDB/NoSQL
 MySQL | SQL Server | SQLite3 | MongoDB | Redis
 
 ### クラウド
-- AWS VPC | EC2 | RDS | S3 | ECS | Auto Scaling | Route53
+- AWS VPC | EC2 | RDS | S3 | ECS | Auto Scaling | Route53 | CloudSearch | DynamoDB
 - GCP VPC | Firebase
 - Azure VPC
 - その他 Conoha VPS等
@@ -31,6 +31,20 @@ Ubuntu | CentOS
 Docker | Vagrant | Jenkins | nginx | Webpack | Elasticsearch | Kibana | Slack | Subversion | Redmine
 
 ## 主な業務経歴
+
+### 2020年
+【プロジェクト概要】チャットボットシステムリプレイス案件
+
+【担当業務】バックエンド
+
+Language: Golang Python Javascript Typescript
+
+Front: React / Typescript
+
+Back: Golang / Django
+
+Cloud: AWS SQS / SNS / DynamoDB / CloudSearch
+
 
 ### - 2019年
 【プロジェクト概要】AIプラットフォーム既存システムリプレイス案件
