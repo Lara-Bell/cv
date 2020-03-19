@@ -35,16 +35,17 @@ Docker | Vagrant | Jenkins | nginx | Webpack | Elasticsearch | Kibana | Slack | 
 ### 2020年
 【プロジェクト概要】チャットボットシステムリプレイス案件
 
-【担当業務】バックエンド
+【担当業務】バックエンド、マイクロサービス設計
 
-Language: Golang Python Javascript Typescript
+Language: Golang Protobuf Python Shell Javascript Typescript
 
 Front: React / Typescript
 
-Back: Golang / Django
+Back: API Golang / console Django
 
-Cloud: AWS SQS / SNS / DynamoDB / CloudSearch
+Cloud: AWS EC2 / S3 / DynamoDB / CloudSearch / Lambda / CloudWatch / SQS / SNS
 
+Tools: Docker
 
 ### - 2019年
 【プロジェクト概要】AIプラットフォーム既存システムリプレイス案件
